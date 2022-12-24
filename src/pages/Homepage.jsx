@@ -4,6 +4,7 @@ import Contributer from '../components/Contributer'
 import Footer from '../components/Footer'
 import PlatformCard from '../components/ui/card/PlatformCard'
 import './Homepage.scss'
+import ContributerInfo from '../../db.json';
 
 
 function Homepage() {
